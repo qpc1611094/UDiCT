@@ -15,6 +15,6 @@ Implementation:
 
     The Seg-C19 dataset is collected by us privately, please contact us if you need it.
   
-3. Add the data folder path to dataload_inf.py and dataload_lidc.py
+3. Add the data folder path to dataload_inf.py, dataload_segc19.py and dataload_lidc.py
 
 4. run the .sh file in LIDC, SegC19 and COVIDSemiSeg, the hypaprmeters set in the .sh file are the hypaprmeters used in our paper.
