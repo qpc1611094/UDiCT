@@ -1,5 +1,5 @@
 # UDiCT
-The codes for Semi-supervised CT lesion segmentation using uncertainty-based data pairing and swapmix
+The codes for Semi-supervised CT Lesion Segmentation Using Uncertainty-based Data Pairing and Swapmix
 
 
 
