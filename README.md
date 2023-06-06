@@ -18,3 +18,14 @@ Implementation:
 3. Add the data folder path to dataload_inf.py, dataload_segc19.py and dataload_lidc.py
 
 4. run the .sh file in LIDC, SegC19 and COVIDSemiSeg to train your model.
+
+Please consider citing this project in your publications if it helps your research.
+```bibtex
+@article{qiao2022semi,
+  title={Semi-Supervised CT Lesion Segmentation Using Uncertainty-Based Data Pairing and SwapMix},
+  author={Qiao, Pengchong and Li, Han and Song, Guoli and Han, Hu and Gao, Zhiqiang and Tian, Yonghong and Liang, Yongsheng and Li, Xi and Zhou, S Kevin and Chen, Jie},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2022},
+  publisher={IEEE}
+}
+```
